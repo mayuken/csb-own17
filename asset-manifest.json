@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mayuken.github.io/csb-own17/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mayuken.github.io/csb-own17/static/js/main.593f1bde.chunk.js",
+    "main.js.map": "https://mayuken.github.io/csb-own17/static/js/main.593f1bde.chunk.js.map",
+    "runtime-main.js": "https://mayuken.github.io/csb-own17/static/js/runtime-main.390e0821.js",
+    "runtime-main.js.map": "https://mayuken.github.io/csb-own17/static/js/runtime-main.390e0821.js.map",
+    "static/js/2.b8cdeaa9.chunk.js": "https://mayuken.github.io/csb-own17/static/js/2.b8cdeaa9.chunk.js",
+    "static/js/2.b8cdeaa9.chunk.js.map": "https://mayuken.github.io/csb-own17/static/js/2.b8cdeaa9.chunk.js.map",
+    "index.html": "https://mayuken.github.io/csb-own17/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mayuken.github.io/csb-own17/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b8cdeaa9.chunk.js.LICENSE.txt": "https://mayuken.github.io/csb-own17/static/js/2.b8cdeaa9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.390e0821.js",
+    "static/js/2.b8cdeaa9.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.593f1bde.chunk.js"
+  ]
+}
